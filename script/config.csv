@@ -1,0 +1,7 @@
+STORE_LOC=/home/ashwanilabs/storage/
+SERVER_LOCAL=server1
+SERVER_LIST=server1:server2:server3:server4
+NETWORK_GRAPH=0 1 2 1:1 0 1 2:2 1 0 1:1 2 1 0
+SERVER_NOS=4
+REPLICA_COUNT=3
+
